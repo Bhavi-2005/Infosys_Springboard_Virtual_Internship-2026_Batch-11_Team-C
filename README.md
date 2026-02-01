@@ -1,5 +1,4 @@
 # ElectViz: Election Data Visualization for Media
----
 # Project Overview
 # Project Files
 # Key Features
