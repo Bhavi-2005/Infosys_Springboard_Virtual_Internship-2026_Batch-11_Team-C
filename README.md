@@ -14,7 +14,7 @@ ElectViz is designed to support data-driven political analysis and effective med
 - Team PPT.pptx – Combined team presentation  
 - README.md – Project documentation  
 - LICENSE – License information  
-- indian-national-level-dataset.csv - Dataset use for project
+- indian-national-level-election.csv - Dataset use for project
   
 ---
 
