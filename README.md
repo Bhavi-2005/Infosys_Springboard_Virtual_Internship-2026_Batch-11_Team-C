@@ -31,7 +31,13 @@ ElectViz is designed to support data-driven political analysis and effective med
 ## Tools & Technologies
 - Microsoft Power BI  
 - Power BI Power Query  
-- Indian General Election Dataset (Kaggle)  
+- Power Query Editor
+- DAX (Data Analysis Expressions) 
+- For importing and handling structured datasets.
+- Kaggle 
+- GitHub
+- GitLab
+ 
 
 ---
 
