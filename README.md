@@ -11,7 +11,8 @@ ElectViz is designed to support data-driven political analysis and effective med
 ## Project Files
 - ElectViz Dashboard(Infosys).pbix – Main Power BI dashboard file  
 - Team_Members_PPT/ – Individual presentation files of team members  
-- Team_PPT.pptx – Combined team presentation  
+- Team_PPT.pptx – Combined team presentation
+- Internship_Completion_Report - Final team report    
 - README.md – Project documentation  
 - LICENSE – License information  
 - indian-national-level-election.csv - Dataset use for project
